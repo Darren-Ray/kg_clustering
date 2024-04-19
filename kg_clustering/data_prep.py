@@ -4,7 +4,7 @@ The functions inside of data_prep computes the varaibles needed to classify poin
 -----------------------
 Requirements/Variables
 -----------------------
-ds = an xarray data set of monthy precipitation, temperature max and temperature min data. 
+ds = an xarray data set of monthly precipitation, temperature max and temperature min data. 
 prec = Precipitation
 Tmax = temperature max
 Tmin = temperature min
